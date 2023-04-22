@@ -17,4 +17,6 @@ public class GithubCicdApplication {
 	public String home(){
 		return "WELCOME";
 	}
+
+	
 }
