@@ -18,5 +18,5 @@ public class GithubCicdApplication {
 		return "WELCOME";
 	}
 
-	
+
 }
